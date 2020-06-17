@@ -1,0 +1,38 @@
+body{
+    background-color: #057da4;
+}
+.header{
+    text-align: center
+}
+.header img{
+    width:200px ;
+    margin-top: 30px;
+}
+.header h2{
+    color:#fff;
+    text-transform: capitalize;
+    padding-bottom: 15px;
+}
+.titel{
+    color:#fff;
+    text-transform: capitalize;
+}
+.button button{
+width: 100%;
+background-color: #00a0dc;
+text-transform: capitalize;
+padding: 5px ;
+color: #fff;
+font-size: 20px;
+border:transparent;
+
+}
+.link {
+    text-align: center;
+    line-height: 50px;
+    }
+.link a{
+color: #fff;
+font-size: 17px;
+
+}
